@@ -8,4 +8,4 @@ Uses Room for local data persistence.
 MVVM architecture.
 
 ## Installation
-Refer to the Installation Guide for setup instructions.
+Refer to the Installation Guide for setup instructions.[Installation Guide](installation.md)
