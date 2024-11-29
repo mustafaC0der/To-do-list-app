@@ -1,0 +1,3 @@
+// Root Settings for Gradle
+rootProject.name = 'TodoApp'
+include ':app'
