@@ -1,0 +1,9 @@
+# Marking text files to avoid CRLF issues
+* text=auto
+
+# Kotlin specific files
+*.kt linguist-language=Kotlin
+*.java linguist-language=Java
+
+# XML files for layout
+*.xml linguist-language=XML
