@@ -1,0 +1,39 @@
+# Gradle
+.gradle/
+build/
+
+# Android
+/build/
+**/build/
+.idea/
+local.properties
+.DS_Store
+*.iml
+*.apk
+*.keystore
+
+# Unit test files
+*.test
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+*.lnk
+
+# Logs
+*.log
+
+# Generated files
+/captures/
+output.json
+
+# Kotlin
+*.class
+*.kt.meta
+
+# Misc
+*.bak
+*.orig
+*.swp
